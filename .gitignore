@@ -1,0 +1,26 @@
+# Dependency directories
+/node_modules/
+/node_modules/*
+
+/secrets/*
+
+# Logs
+logs
+*.log*
+
+# Resource
+/rsc/
+/rsc/*
+
+# Env
+*.env
+*.env.test
+
+# Extra
+.vscode
+.eslintcache
+*.csv
+.idea
+/out/
+/out/*
+Notes.md
